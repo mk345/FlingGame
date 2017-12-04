@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">SwipeGame</string>
+    <string name="saved_high_score">savedHighScore</string>
+</resources>
